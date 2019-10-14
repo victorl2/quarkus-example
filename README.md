@@ -1,3 +1,3 @@
 # quarkus-example
 
-Uma simples descrição
+Uma simples descrição atualizada
