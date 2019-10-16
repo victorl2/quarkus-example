@@ -1,3 +1,3 @@
-# quarkus-example
+# Exemplo quarkus
 
-Uma simples descrição atualizada
+Uma aplicação simples realizando operações de crud com o framework **quarkus**.
