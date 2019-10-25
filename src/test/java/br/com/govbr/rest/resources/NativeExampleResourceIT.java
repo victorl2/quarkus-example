@@ -1,4 +1,4 @@
-package org.acme;
+package br.com.govbr.rest.resources;
 
 import io.quarkus.test.junit.SubstrateTest;
 
